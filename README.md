@@ -1,4 +1,7 @@
-## NLP and LLMs - Foundations of NLP
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">NLP and LLMs - Foundations of NLP</span>
+</h1>
 
 ## About
 NLP foundations introduces various ways to represent text numerically including word vectors and text embeddings. 
@@ -13,8 +16,6 @@ NLP foundations introduces various ways to represent text numerically including 
 - Compare two embedding methods, Word2Vec and BERT, using customer reviews.
 - Discuss real-world considerations for embedding selection.
 
-**Format:** Github and deck
-
 ## Content
 
 | Topic|  Time |  About |
@@ -26,7 +27,7 @@ NLP foundations introduces various ways to represent text numerically including 
 
 
 
-## Prerequisites:
+## Prerequisites
 - Write and run Python code in a Jupyter notebook.
 - Create basic Python functions.
 - Import and use `pandas` and `numpy`.
