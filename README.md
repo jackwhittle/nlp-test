@@ -1,4 +1,4 @@
-## [NLP and LLMs - Foundations of NLP]
+## NLP and LLMs - Foundations of NLP
 
 ## About
 NLP foundations introduces various ways to represent text numerically including word vectors and text embeddings. 
