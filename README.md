@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">NLP and LLMs - Foundations of NLP</span>
+  <span class="headline">[NLP and LLMs - Foundations of NLP]</span>
 </h1>
 
 ## About
