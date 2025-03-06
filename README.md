@@ -18,12 +18,12 @@ NLP foundations introduces various ways to represent text numerically including 
 
 ## Content
 
-| Topic|  Time |  About |
-| ------ |:----------:| ------ |
-| [Full Lesson Deck](https://docs.google.com/presentation/d/1r1KERmYcOuDbcX6-mld0kAba87P5uQaWIk8vwmuO8Z4/edit?usp=sharing) | 120 | To be used for the full session, includes the labs below  |
-|  [text-frequency.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/text-frequency.ipynb) | 35 | First code-a-long and mini-lab  |
-|  [embeddings.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/embeddings.ipynb) | 35 | Second code-a-long |
-| **Total content**     | 120 |    |
+| Topic |  About |
+| ------ | ------ |
+| [Full Lesson Deck](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/01-slides) | To be used for the full session, includes the labs below  |
+|  [text-frequency.ipynb](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/02-text-frequency) | First code-a-long and mini-lab  |
+|  [embeddings.ipynb](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/03-embeddings) | Second code-a-long |
+| **Total content**     |    |
 
 
 
