@@ -36,6 +36,9 @@ NLP foundations introduces various ways to represent text numerically including 
 
 📖 [Reference Materials](./references/README.md)
 
+## Important note
+Please ignore the `_layouts` folder and the `config.yml` file in the root of this repo.  They are needed to make sure the repo renders well; please don't change them or delete them and your repo will work fine :)
+
 ---
 
 #### [Instructor-only resources](https://drive.google.com/drive/folders/11RRHpnnKbtMHJp6X21gSzyUslBdvQVZM?usp=drive_link)
