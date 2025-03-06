@@ -37,6 +37,8 @@ NLP foundations introduces various ways to represent text numerically including 
 📖 [Reference Materials](./references/README.md)
 
 
+## [Instructor-only resources](https://drive.google.com/drive/folders/11RRHpnnKbtMHJp6X21gSzyUslBdvQVZM?usp=drive_link)
+
 
 
 
